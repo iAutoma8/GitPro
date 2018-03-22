@@ -6,6 +6,7 @@ public class ZT {
 		// TODO Auto-generated method stub
 		System.out.println("ZT! Project");
 		System.out.println("Added to check 1");
+		System.out.println("Added to check 2");
 
 	}
 
